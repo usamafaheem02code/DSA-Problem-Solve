@@ -16,6 +16,17 @@
 
 ---
 
+## 📅 Day 2 - JS Logic + Practice
+
+### ✅ OTP Generator
+Generate a random 6-digit number (OTP) using `Math.random()` and `Math.floor()`.
+
+### ✅ Use of `includes()` Method
+Learned how to check if a character exists in a string using `.includes()`.
+
+### ✅ for...of vs for...in
+Explored looping techniques in JS to iterate over strings and arrays.
+
 ## 🚀 Author
 
 **Usama Faheem**  
